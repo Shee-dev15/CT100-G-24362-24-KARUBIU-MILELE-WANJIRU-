@@ -8,7 +8,7 @@ public class Units {
 
     public static void main(String[] args) {
         
-        // Print the header for the list
+        
         System.out.println("Units Offered This Semester:");
         
         // Print each unit on a new line using System.out.println
