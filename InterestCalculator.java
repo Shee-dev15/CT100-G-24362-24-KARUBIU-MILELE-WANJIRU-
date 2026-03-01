@@ -1,3 +1,8 @@
+/*
+ * NAME : KARUBIU MILELE WANJIRU
+ * REGISTRATION NO : CT100/G/24362/24
+ */
+
 import java.util.Scanner;
 
 public class InterestCalculator {
